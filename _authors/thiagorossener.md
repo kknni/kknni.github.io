@@ -1,8 +1,8 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+name: kknni
+display_name: kknni
 position: Chief Editor
 bio: Just a developer.
 github_username: kknni
