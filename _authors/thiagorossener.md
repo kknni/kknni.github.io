@@ -5,7 +5,7 @@ name: thiagorossener
 display_name: Thiago Rossener
 position: Chief Editor
 bio: Just a developer.
-github_username: thiagorossener
+github_username: kknni
 facebook_username: thiagorossener
 twitter_username: thiagorossener
 instagram_username: thiagorossener
